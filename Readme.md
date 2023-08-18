@@ -1,8 +1,8 @@
-Ejercicio 2:
-console app
-.net 7.0
+## Ejercicio 2:
+- console app
+- .net 7.0
 
-Ejercicio 4:
+## Ejercicio 4:
 windows form app
 .net 7.0
 net framework 4.8
